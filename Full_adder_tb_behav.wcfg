@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Full_adder_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Full_adder_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="100.001 ns"></ZoomEndTime>
+      <Cursor1Time time="10.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="59"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="/Full_adder_tb/a" type="logic">
+      <obj_property name="ElementShortName">a</obj_property>
+      <obj_property name="ObjectShortName">a</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Full_adder_tb/b" type="logic">
+      <obj_property name="ElementShortName">b</obj_property>
+      <obj_property name="ObjectShortName">b</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Full_adder_tb/c" type="logic">
+      <obj_property name="ElementShortName">c</obj_property>
+      <obj_property name="ObjectShortName">c</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Full_adder_tb/su" type="logic">
+      <obj_property name="ElementShortName">su</obj_property>
+      <obj_property name="ObjectShortName">su</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Full_adder_tb/cy" type="logic">
+      <obj_property name="ElementShortName">cy</obj_property>
+      <obj_property name="ObjectShortName">cy</obj_property>
+   </wvobject>
+</wave_config>
